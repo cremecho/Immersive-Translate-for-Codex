@@ -1,0 +1,5 @@
+.local-deps/
+__pycache__/
+*.py[cod]
+.translate-work/
+/output/

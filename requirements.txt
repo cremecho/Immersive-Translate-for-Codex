@@ -1,0 +1,7 @@
+python-docx>=1.2,<2
+lxml>=5,<7
+markdown-it-py>=3,<5
+PyMuPDF>=1.26.6,<1.28
+pypdf>=6,<7
+pypdfium2>=5,<6
+fonttools>=4.63,<5
